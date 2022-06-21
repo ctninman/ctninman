@@ -1,12 +1,8 @@
 ![Christopher_Ninman_header](https://user-images.githubusercontent.com/89664157/174863618-47fa59e0-f367-4f83-8b2d-bb2f40aedad2.jpg)
 
 ## Skills I've Learned
-
-      
-            <i class="devicon-html5-plain"></i>
           
           
-
 ## Skills I'm Learning
 
 ## Skills I'd Like to Learn
