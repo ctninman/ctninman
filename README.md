@@ -1,9 +1,12 @@
+![Christopher_Ninman_header](https://user-images.githubusercontent.com/89664157/174863618-47fa59e0-f367-4f83-8b2d-bb2f40aedad2.jpg)
+
 ### Hi there 👋
 
 <!--
 **ctninman/ctninman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
