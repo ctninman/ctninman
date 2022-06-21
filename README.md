@@ -1,6 +1,13 @@
 ![Christopher_Ninman_header](https://user-images.githubusercontent.com/89664157/174863618-47fa59e0-f367-4f83-8b2d-bb2f40aedad2.jpg)
 
-### Hi there 👋
+## Skills I've Learned
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
+## Skills I'm Learning
+
+## Skills I'd Like to Learn
 
 <!--
 **ctninman/ctninman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
