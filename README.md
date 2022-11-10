@@ -8,11 +8,11 @@ My life can be broken down into four main, driving passions, with each one remai
 
 ## Skills I've Learned
 
-  React | JavaScript | HTML | CSS | Ruby | Rails | Canva | Figma | OAuth | Heroku
+  React | JavaScript | HTML | CSS | Ruby | Rails | Node.js | PostgresQL| Canva | Figma | OAuth | Heroku
                   
 ## Skills I'm Learning
   
-  Node.js | PHP | MySQL
+  Typescript | C# 
   
 
 
