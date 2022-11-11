@@ -4,7 +4,8 @@ My life can be broken down into four main, driving passions, with each one remai
 
 ## Check Out My Projects Below
 
-![Screenshot of Projects](https://user-images.githubusercontent.com/89664157/175055880-8bc0d773-b38b-4119-bdb4-b1519707b4aa.png)
+![profilebackgroundorange6](https://user-images.githubusercontent.com/89664157/201394860-5f87c9d9-095a-4725-95ac-80ae6f605e8f.png)
+
 
 ## Skills I've Learned
 
